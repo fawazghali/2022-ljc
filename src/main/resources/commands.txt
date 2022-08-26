@@ -1,0 +1,10 @@
+./start-zookeeper.sh
+
+./start-kafka-0.sh                                                                                                                                ✔  09:35:22
+
+Run: DemoApplication
+
+Run: HazelcastJob
+
+./stop-kafka.sh
+./stop-zookeeper.sh
